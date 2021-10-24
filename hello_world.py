@@ -11,3 +11,8 @@ print("Running Python Example")
 
 print("4 + 5 : ")
 print(4+5)
+print();
+
+print("31/2:")
+print(31/2)
+print();
