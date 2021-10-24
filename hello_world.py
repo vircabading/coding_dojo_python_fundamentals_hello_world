@@ -16,3 +16,11 @@ print();
 print("31/2:")
 print(31/2)
 print();
+
+print("If x=9 and y='hello'")
+x=9                                                             # Assign 9 to var x
+y="hello"                                                       # Assign 'hello' to var y
+
+print("x * y :")
+print(x * y)                                                    # Prints 9 times "hello"
+print()
