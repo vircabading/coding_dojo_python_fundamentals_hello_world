@@ -1,0 +1,7 @@
+# ////////////////////////////////////////////////////////////
+#   Coding Dojo > Python > Fundamentals > Hello World
+#   By: Virgilio D. Cabading Jr.    Created: October 24, 2021
+# ////////////////////////////////////////////////////////////
+
+message = "Hello World Python!"
+print(message)
