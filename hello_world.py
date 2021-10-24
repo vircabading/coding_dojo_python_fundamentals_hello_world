@@ -24,3 +24,12 @@ y="hello"                                                       # Assign 'hello'
 print("x * y :")
 print(x * y)                                                    # Prints 9 times "hello"
 print()
+
+print("x = 'Hello Python'")                                     # Shows var re-assignments
+x="Hello Python"
+print(x)
+
+print("y: 42")
+y= 42
+print(y)
+print()
