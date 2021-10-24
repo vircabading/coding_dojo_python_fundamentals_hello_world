@@ -5,3 +5,9 @@
 
 message = "Hello World Python!"
 print(message)
+
+# ////////////////////////////////////////////////////////////
+print("Running Python Example")
+
+print("4 + 5 : ")
+print(4+5)
