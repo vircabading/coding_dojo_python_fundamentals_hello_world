@@ -48,3 +48,20 @@ print(int_to_complex)
 print(type(int_to_float))
 print(type(float_to_int))
 print(type(int_to_complex))
+
+# /////////////////////////////////
+print("String concatination test")
+
+num1 = 8
+print("this , 8 is:", num1)
+# print("this + 8 is:" + num1)                  # Can not concatinate a number onto a string
+print("this str(8) is: " + str(num1))
+print()
+
+# /////////////////////////////////
+print("String Interpolation")
+first_name = "Zen"
+last_name = "Coder"
+age = 27
+print(f"My name is {first_name} {last_name} and I am {age} years old.") # Literal string interpolation
+
