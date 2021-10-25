@@ -90,9 +90,14 @@ print("My name is %s and I'm %d" % (name, age))		# or with variables
 print()
 
 #//////////////////////////////////////
-print("usinf f for print strings")
+print("using f for print strings")
 f_name = "Val"
 l_name = "Cabading"
 print(f"full name: {f_name} {l_name}")
 print()
 
+#//////////////////////////////////////////////////////
+print("working with tuple")
+x = (1,5,6,9,2)
+print(len(x))                           # output: # 5
+print(enumerate(x))
