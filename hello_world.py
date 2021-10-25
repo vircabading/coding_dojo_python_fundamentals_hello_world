@@ -33,3 +33,6 @@ print("y: 42")
 y= 42
 print(y)
 print()
+
+print("Type of 3j:")
+print(type(3j))
