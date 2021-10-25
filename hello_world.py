@@ -88,3 +88,11 @@ age = 27
 print("My name is %s and I'm %d" % (name, age))		# or with variables
 # output: My name is Zen and I'm 27
 print()
+
+#//////////////////////////////////////
+print("usinf f for print strings")
+f_name = "Val"
+l_name = "Cabading"
+print(f"full name: {f_name} {l_name}")
+print()
+
